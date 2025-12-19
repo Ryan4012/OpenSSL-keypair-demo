@@ -2,7 +2,7 @@
 
 <h2> Project Overview: </h2>
 
-<h2> Platforms and Technologies Used: </h2>
+<h2> Languages and Technologies Used: </h2>
 
 <h2> Images: </h2>
 
