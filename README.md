@@ -3,7 +3,7 @@
 ## Images
 <p align="center">
   Commands to run the keypair demo <br>
-  <img src="./images/OpenSSL Keypair Demo.png" alt="Architecture Diagram" width="500" />
+  <img src="./images/OpenSSL Keypair Demo.png" alt="" width="500" />
 </p>
 
 ## Overview
