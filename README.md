@@ -8,5 +8,5 @@
 
 <p align="center">
   Commands to run the keypair demo <br>
-  <img src="https://i.imgur.com/t9MKhH0.png" height="60%" width="60%" atl="OpenSSL" /> 
+  <img src="./images/OpenSSL Keypair Demo.png" alt="Architecture Diagram" width="500" />
 </p>
